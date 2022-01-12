@@ -1,0 +1,36 @@
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/bin/Debug/netcoreapp3.1/myFirstWebApp.deps.json
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/bin/Debug/netcoreapp3.1/myFirstWebApp.runtimeconfig.json
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/bin/Debug/netcoreapp3.1/myFirstWebApp.runtimeconfig.dev.json
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/bin/Debug/netcoreapp3.1/myFirstWebApp.dll
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/bin/Debug/netcoreapp3.1/myFirstWebApp.pdb
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.csproj.AssemblyReference.cache
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.AssemblyInfoInputs.cache
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.AssemblyInfo.cs
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.csproj.CoreCompileInputs.cache
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/staticwebassets/myFirstWebApp.StaticWebAssets.Manifest.cache
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.RazorTargetAssemblyInfo.cache
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.dll
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.pdb
+/Users/jennaconnell/Documents/IS PROGRAM/413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.genruntimeconfig.cache
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/bin/Debug/netcoreapp3.1/myFirstWebApp.deps.json
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/bin/Debug/netcoreapp3.1/myFirstWebApp.runtimeconfig.json
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/bin/Debug/netcoreapp3.1/myFirstWebApp.runtimeconfig.dev.json
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/bin/Debug/netcoreapp3.1/myFirstWebApp.dll
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/bin/Debug/netcoreapp3.1/myFirstWebApp.pdb
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.csproj.AssemblyReference.cache
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.AssemblyInfoInputs.cache
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.AssemblyInfo.cs
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.csproj.CoreCompileInputs.cache
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/staticwebassets/myFirstWebApp.StaticWebAssets.Manifest.cache
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.RazorTargetAssemblyInfo.cache
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.dll
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.pdb
+/Users/jennaconnell/Documents/ISPROGRAM/IS413/myFirstWebApp/myFirstWebApp/obj/Debug/netcoreapp3.1/myFirstWebApp.genruntimeconfig.cache
